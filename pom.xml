@@ -45,7 +45,7 @@
             <scope>test</scope>
         </dependency>
         <dependency>
-            <groupId>rafaelspinto</groupId>
+            <groupId>sergiospinto</groupId>
             <artifactId>flow</artifactId>
             <version>${flow.version}</version>
         </dependency>
