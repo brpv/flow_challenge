@@ -4,7 +4,7 @@ In order to complete the challenges ahead, you need to previously install the [F
 
 
 ```shell
-git clone https://github.com/rafaelspinto/flow
+git clone https://github.com/sergiospinto/flow
 cd flow
 mvn install
 ```
