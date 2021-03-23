@@ -10,8 +10,8 @@
         <junit.version>4.12</junit.version>
         <junit-dataprovider.version>1.10.0</junit-dataprovider.version>
         <mockito-all.version>1.10.19</mockito-all.version>
-        <cucumber-java.version>1.2.5</cucumber-java.version>
-        <cucumber-junit.version>1.2.5</cucumber-junit.version>
+        <cucumber-java.version>4.8.0</cucumber-java.version>
+        <cucumber-junit.version>4.8.0</cucumber-junit.version>
     </properties>
     <dependencies>
         <dependency>
@@ -33,19 +33,19 @@
             <scope>test</scope>
         </dependency>
         <dependency>
-            <groupId>info.cukes</groupId>
+            <groupId>io.cucumber</groupId>
             <artifactId>cucumber-junit</artifactId>
             <version>${cucumber-junit.version}</version>
             <scope>test</scope>
         </dependency>
         <dependency>
-            <groupId>info.cukes</groupId>
+            <groupId>io.cucumber</groupId>
             <artifactId>cucumber-java</artifactId>
             <version>${cucumber-java.version}</version>
             <scope>test</scope>
         </dependency>
         <dependency>
-            <groupId>sergiospinto</groupId>
+            <groupId>rafaelspinto</groupId>
             <artifactId>flow</artifactId>
             <version>${flow.version}</version>
         </dependency>
